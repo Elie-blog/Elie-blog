@@ -1,0 +1,6 @@
+/* Mobile overrides */
+@media (max-width:767px){
+.site-header .inner{display:flex; align-items:center; justify-content:space-between}
+.site-header nav{display:none}
+.hero{padding:18px}
+}
